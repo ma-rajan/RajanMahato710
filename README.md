@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RajanMahato710
+- 👋 Hi, I’m @RajanMahato
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning webdevelopment
 - 💞️ I’m looking to collaborate on ...
